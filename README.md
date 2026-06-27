@@ -6,7 +6,7 @@ PREMISE \& NOTES
 
 * PetHack is a simple variant geared towards pet lovers. It makes it easier to obtain and manage pets while still having the classic NetHack feel.
 * PetHack is based on NetHack 5.0.0. This will likely be the only release of PetHack unless there are bugs. The goal was not to make extreme changes, but rather to upgrade and serve a specific playstyle.
-* There is also an Android port of PetHack! It is based on JodiJodington and gurr’s Android ports for NetHack:
+* There is also an Android port of PetHack! It is based on JodiJodington and gurr’s Android ports for NetHack: https://github.com/maraised/PetHack-1.0.0-Android
 * All tilesets that are compatible with NetHack 5.0.0 should be compatible with PetHack! 
 * I am very, *very* new to coding and GitHub. If there are any issues with the game or repository, please let me know and I will do my best to fix them!
 
