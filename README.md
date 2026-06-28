@@ -2,7 +2,7 @@ Introducing PetHack, a NetHack variant for pet lovers!
 
 
 
-PREMISE \& NOTES
+**PREMISE \& NOTES**
 
 * PetHack is a simple variant geared towards pet lovers. It makes it easier to obtain and manage pets while still having the classic NetHack feel.
 * PetHack is based on NetHack 5.0.0. This will likely be the only release of PetHack unless there are bugs. The goal was not to make extreme changes, but rather to upgrade and serve a specific playstyle.
@@ -12,7 +12,7 @@ PREMISE \& NOTES
 
 
 
-CHANGELOG
+**CHANGELOG**
 
 * Changed Tourist role
 
@@ -33,7 +33,7 @@ CHANGELOG
   * This is a shop that only sells figurines. Figurines that generate in toy stores (or shops in general) can also be of any monster regardless of the player’s level and depth. They follow the same generation rules as the Tourist's starting figurine.
   * Figurine base prices now scale with the monster’s difficulty (difficulty x 50). For example, figurines of Archons will be expensive, while figurines of lichens will be cheap.
 
-* Keep in mind that you still cannot wish for figurines of the not-randomly-generated monsters. If you really want one, you have to leave it up to chance!
+* Keep in mind that you still cannot wish for figurines of the not-randomly-generated monsters. They can only appear in shops and the Tourist's starting inventory. If you really want one, you have to leave it up to chance!
 
 Good luck, and happy hacking!
 
