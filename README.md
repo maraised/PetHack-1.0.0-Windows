@@ -18,7 +18,7 @@ CHANGELOG
 
   * They now start with 3-5 tripe rations, 3-5 scrolls of taming, a blessed spellbook of charm monster, a blessed magic whistle, a sack, a leash, and a blessed random figurine *in addition* to their original starting equipment
 
-    * The figurine is completely random, meaning it can be any monster (not based on level/depth) while still following *mostly* normal figurine generation rules. For added fun, monsters that are not randomly generated (but are still non-unique and non-undead @) can have figurines made of them in this instance. For example, you can start with a figurine of a Keystone Kop!
+    * The figurine is completely random, meaning it can be any monster (not based on level/depth) while still following *mostly* normal figurine generation rules. For added fun, monsters that are not randomly generated (but are still non-undead @ and non-unique) can have figurines made of them in this instance. For example, you can start with a figurine of a Keystone Kop!
   * They now start with Basic in enchantment spells and can reach Expert
 * Changed charm monster back to a level 3 spell
 * If you throw an item to an intelligent pet with hands, they will catch it and equip it if applicable. They will prioritize using items you give them over other items. This idea came from FIQHack.
@@ -32,6 +32,8 @@ CHANGELOG
 
   * This is a shop that only sells figurines. Figurines that generate in toy stores (or shops in general) can also be of any monster regardless of the player’s level and depth. They follow the same generation rules as the Tourist's starting figurine.
   * Figurine base prices now scale with the monster’s difficulty (difficulty x 50). For example, figurines of Archons will be expensive, while figurines of lichens will be cheap.
+
+* Keep in mind that you still cannot wish for figurines of the not-randomly-generated monsters. If you really want one, you have to leave it up to chance! (Also please let me know if any of this breaks the game...)
 
 Good luck, and happy hacking!
 
