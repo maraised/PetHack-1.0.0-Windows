@@ -30,7 +30,7 @@ CHANGELOG
   * Cursed: 0% tame, 10% peaceful, 90% hostile
 * New store: Toy store
 
-  * This is a shop that only sells figurines. Figurines that generate in toy stores (or shops in general) can also be of any monster regardless of the player’s level and depth. 
+  * This is a shop that only sells figurines. Figurines that generate in toy stores (or shops in general) can also be of any monster regardless of the player’s level and depth. They follow the same generation rules as the Tourist's starting figurine.
   * Figurine base prices now scale with the monster’s difficulty (difficulty x 50). For example, figurines of Archons will be expensive, while figurines of lichens will be cheap.
 
 Good luck, and happy hacking!
