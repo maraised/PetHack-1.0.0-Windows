@@ -33,7 +33,7 @@ CHANGELOG
   * This is a shop that only sells figurines. Figurines that generate in toy stores (or shops in general) can also be of any monster regardless of the player’s level and depth. They follow the same generation rules as the Tourist's starting figurine.
   * Figurine base prices now scale with the monster’s difficulty (difficulty x 50). For example, figurines of Archons will be expensive, while figurines of lichens will be cheap.
 
-* Keep in mind that you still cannot wish for figurines of the not-randomly-generated monsters. If you really want one, you have to leave it up to chance! (Also please let me know if any of this breaks the game...)
+* Keep in mind that you still cannot wish for figurines of the not-randomly-generated monsters. If you really want one, you have to leave it up to chance!
 
 Good luck, and happy hacking!
 
